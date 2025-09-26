@@ -151,7 +151,7 @@ p {
 .card-text {
   /* TODO: Add card text styles */
   /* HINT: Set color and margin */
-  color: white;
+  color: #1591c7;
   margin: 10px;
   
 }
@@ -440,6 +440,7 @@ input:checked + .slider-round:before {
   display: block;
   margin: 3px;
   font-weight: bold;
+  color: black;
 }
 
 .form-input {
