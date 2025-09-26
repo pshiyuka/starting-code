@@ -202,7 +202,7 @@ p {
   /* HINT: Transparent background with border and specific text color */
   background:  transparent;
   border: 2px solid grey;
-  color: rgb(17, 129, 139);
+  color: rgb(1, 15, 17);
 }
 
 .btn-outline:hover {
@@ -636,7 +636,7 @@ input:checked + .slider-round:before {
   /* TODO: Add navigation styles */
   /* HINT: Use display, background-color, border-radius, overflow, and margin-bottom */
   display: flex;
-  background-color: #1f317d;
+  background-color: #1591c7;
   border-radius: 3px;
   overflow: hidden;
   margin-bottom: 20px;
@@ -660,7 +660,7 @@ input:checked + .slider-round:before {
 .nav-item.active {
   /* TODO: Add styles for active nav item */
   /* HINT: Use background-color and font-weight */
-  background-color: #400c5b;
+  background-color: #3044ba;
   font-weight: 600;
 }
 
@@ -716,7 +716,7 @@ input:checked + .slider-round:before {
   /* HINT: Use display, padding, border, border-radius, color, text-decoration, transition, and cursor */
   display: flex;
   padding: 8px;
-  border: 1px solid #212529;
+  border: 1px solid black;
   border-radius: 5px;
   color: black;
   text-decoration: none;
@@ -759,13 +759,13 @@ input:checked + .slider-round:before {
   /* HINT: Use content, margin, and color */
   content: normal;
   margin: 10px;
-  color: #1f317d;
+  color: #040920;
 }
 
 .breadcrumb-link {
   /* TODO: Add breadcrumb link styles */
   /* HINT: Use color, text-decoration, and cursor */
-  color: #0e1e22;
+  color: #1591c7;
   text-decoration:underline;
   cursor: pointer;
 }
@@ -779,7 +779,7 @@ input:checked + .slider-round:before {
 .breadcrumb-item.active {
   /* TODO: Add styles for active breadcrumb item */
   /* HINT: Use color */
-  color: #32669a;
+  color: #0358ad;
 
 }
 
@@ -793,7 +793,7 @@ input:checked + .slider-round:before {
   left: 12px;
   width: 400px;
   height: 300px;
-  background-color: #c4e3ea;
+  background-color: #307180;
   z-index: 1;
   justify-content: center;
   align-items: center;
@@ -802,7 +802,7 @@ input:checked + .slider-round:before {
 .modal-content {
   /* TODO: Add modal content styles */
   /* HINT: Use background-color, border-radius, width, max-width, padding, and box-shadow */
-  background-color: #a6a8a1;
+  background-color: #1591c7;
   border-radius: 10px;
   width: 350px;
   max-width: 500px;
@@ -1155,7 +1155,7 @@ input:checked + .slider-round:before {
   /* TODO: Add theme button styles */
   /* HINT: Use padding, background-color, color, border, border-radius, and cursor */
   padding: 10px;
-  background-color: #1f317d;
+  background-color: #1591c7;
   color: white;
   border: none;
   border-radius: 5px;
@@ -1293,7 +1293,7 @@ input:checked + .slider-round:before {
   right: 20px;
   z-index: 1001;
   padding: 10px;
-  background-color: #1f317d;
+  background-color: #1591c7;
   color: white;
   border: none;
   border-radius: 5px;
@@ -1366,7 +1366,7 @@ input:checked + .slider-round:before {
   /* HINT: Use margin-top, margin-bottom, color, and font-size */
   margin-top: 0;
   margin-bottom: 10px;
-  color: #0e1e22;
+  color: #1591c7;
   font-size: 1.2rem;
 }
 
